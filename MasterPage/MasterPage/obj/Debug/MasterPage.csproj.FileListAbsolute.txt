@@ -1,0 +1,5 @@
+D:\shoon lai kyi\asp.net\MasterPage\MasterPage\bin\MasterPage.dll.config
+D:\shoon lai kyi\asp.net\MasterPage\MasterPage\bin\MasterPage.dll
+D:\shoon lai kyi\asp.net\MasterPage\MasterPage\bin\MasterPage.pdb
+D:\shoon lai kyi\asp.net\MasterPage\MasterPage\obj\Debug\MasterPage.dll
+D:\shoon lai kyi\asp.net\MasterPage\MasterPage\obj\Debug\MasterPage.pdb

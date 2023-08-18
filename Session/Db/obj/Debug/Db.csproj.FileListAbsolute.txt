@@ -1,0 +1,6 @@
+D:\shoon lai kyi\asp.net\Db\Db\bin\Db.dll.config
+D:\shoon lai kyi\asp.net\Db\Db\bin\Db.dll
+D:\shoon lai kyi\asp.net\Db\Db\bin\Db.pdb
+D:\shoon lai kyi\asp.net\Db\Db\obj\Debug\Db.csprojResolveAssemblyReference.cache
+D:\shoon lai kyi\asp.net\Db\Db\obj\Debug\Db.dll
+D:\shoon lai kyi\asp.net\Db\Db\obj\Debug\Db.pdb

@@ -1,0 +1,62 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="MasterPage.Site1" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        #header{
+            color:#ffffff;
+            font-family:'Sitka Display';
+            text-align:center;
+          
+              background-color:violet;
+           
+        }
+        #header .title{
+            color:green;
+           
+        }
+        .menu{
+            background-color:purple;
+        }
+        .menu a{
+            text-decoration:none;
+            color:white;
+        }
+        .menu ul{
+            list-style:none;
+            margin-top: 12px;
+        }
+        .menu li{
+            display:inline-block;
+            padding:3px;
+        }
+    </style>
+</head>
+
+<body>
+    <form id="form1" runat="server">
+        
+    <div>
+        
+    </div>
+      <header id="header">
+          <h2 class="title">MHK mobile shop</h2>
+      </header>
+        <div class="wrap">
+            <div class="menu">
+                <ul>
+                    <li><a href="home.aspx">Home</a></li>
+                    <li><a href="about.aspx">About</a></li>
+                   
+                </ul>
+            </div>
+            <nav></nav>
+        </div>
+    </form>
+</body>
+</html>
